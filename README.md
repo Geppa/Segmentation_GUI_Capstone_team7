@@ -16,16 +16,11 @@ In this study, based on Video Object Segmentation technology based on Space-Time
 
 **Advisor**
 ------------
-SeongTae Kim　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-Assistant Professor, Department of Computer Science and Engineering & Department of Artificial Intelligence, College of Software, Kyung Hee University　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-http://ailab.khu.ac.kr/
+**SeongTae Kim**<br/>-Assistant Professor, Department of Computer Science and Engineering & Department of Artificial Intelligence, College of Software, Kyung Hee University<br/>http://ailab.khu.ac.kr/
 
 
 **Team members** 
 ------------
-Yulim Kim　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
--Department of computer engineering, Undergraduate, Kyung Hee University　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-https://github.com/yeaygit
+**Yulim Kim**<br/>-Department of computer engineering, Undergraduate, Kyung Hee University<br/>https://github.com/yeaygit
 
-Minkuk Kim　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
--Department of computer engineering, Undergraduate, Kyung Hee University　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-https://github.com/Geppa
+**Minkuk Kim**<br/>-Department of computer engineering, Undergraduate, Kyung Hee University<br/>https://github.com/Geppa
