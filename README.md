@@ -9,7 +9,20 @@
 In this study, based on Video Object Segmentation technology based on Space-Time Memory Networks (STM) model, the purpose of this study is to create a GUI program that allows users to edit video in real time and interact with the computer.
 
 
+**Python GUI**
+------------
+GUI was configured using Tkinter, video playback is possible on Python using Opencv, and Python image library (PIL) was used to bring various image file formats from Python.
+In addition, Matplot has been implemented to bring up images that do not meet the uncertainty standard in the uncertainty part.
 
+
+
+**Install Python Module**
+------------
+- Pip install tkinter
+- Pip install opencv-python
+- Pip install image
+- Pip install pillow
+- Pip install matplotlib
 
 
 
